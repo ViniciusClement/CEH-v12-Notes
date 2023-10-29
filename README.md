@@ -1,2 +1,2 @@
-# CEH---Notes
-Notes CHE V12
+# CEH-Notes
+This repository is a brief summary of the CEH V12 exam
